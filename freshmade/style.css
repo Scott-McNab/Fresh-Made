@@ -102,12 +102,12 @@ nav{
     padding-top: 200px;
     padding-left: 20px;
     padding-right: 30px;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 #about h1{
     font-size: 40px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     font-weight: 200;
 }
 
@@ -117,12 +117,13 @@ nav{
     padding-top: 200px;
     padding-left: 20px;
     padding-right: 30px;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 #work h1{
     font-size: 40px;
     font-weight: 200;
+    margin-bottom: 10px;
 }
 
 #work p{
@@ -140,12 +141,12 @@ nav{
     padding-top: 200px;
     padding-left: 20px;
     padding-right: 30px;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 #freshmade h1{
     font-size: 40px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     font-weight: 200;
 }
 
@@ -159,7 +160,7 @@ nav{
 
 #contact h1{
     font-size: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-weight: 200;
 }
 
