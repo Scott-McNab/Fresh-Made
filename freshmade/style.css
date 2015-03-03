@@ -126,6 +126,10 @@ nav{
     font-weight: 200;
 }
 
+#work p{
+    padding-bottom: 20px;
+}
+
 #web img{
     width: 50%;
     margin-bottom: 20px;
