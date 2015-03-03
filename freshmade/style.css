@@ -1,0 +1,176 @@
+* {
+    padding:0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1.4em;
+}
+
+body{
+    font-family: Dosis, sans-serif;
+    font-weight: 200;
+    background-color: #fff;
+    min-width: 33%;
+	width: 100%;
+    height: 100%;
+}
+
+nav{
+    float: left;
+    position: fixed;
+    width: 33%;
+    min-width: 200px;
+    height: 100%;
+    background:url(images/bground.png) repeat;
+    box-shadow: 2px 2px 15px #000;
+}
+
+#image{
+    text-align: center;
+    margin: 0;
+    min-width: 200px;
+}
+
+#image img{
+    width: 100%;
+    max-width: 400px;
+    
+}
+
+#nav{
+    text-align: center;
+}
+
+#nav ul{
+	list-style: none;
+	display: block;
+	margin: 0 auto;
+	list-style: none;	
+}
+
+#nav li{
+	margin-top: 9px;	
+	
+	padding-left: 21px;
+}
+
+#nav li a { 
+    color: #fff; 
+    opacity:1; 
+    font-size: 32px; 
+    text-decoration: none; 
+    font-family: Dosis, sans-serif; 
+    font-weight: 200; 
+}
+
+#nav li a.active { 
+    color: #fff; 
+    opacity:1;  
+}
+
+#nav li a:hover { 
+    color: #fff; 
+    border-top: 2px solid #fff;
+}
+
+#content{
+    float:right;
+    width: 67%;
+
+    padding: 0 7%;
+    display: table;
+    margin: 0;
+    max-width: none;
+    min-width: 33%;
+    height: 100vh;
+}
+
+#about img{
+    float: right;
+    width: 75%;
+    max-width: 35%;
+}
+
+
+#about{
+    float: right;
+    width: 67%;
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 30px;
+    font-size: 30px;
+}
+
+#about h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: 200;
+}
+
+#work{
+    float: right;
+    width: 67%;
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 30px;
+    font-size: 30px;
+}
+
+#work h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: 200;
+}
+
+#freshmade{
+    float: right;
+    width: 67%;
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 30px;
+    font-size: 30px;
+}
+
+#freshmade h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: 200;
+}
+
+#contact{
+    float: right;
+    width: 67%;
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 30px;
+}
+
+#contact h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: 200;
+}
+
+#contact ul{
+	list-style: none;
+    margin-bottom: 150px;
+    text-align: center;
+}
+
+#contact li{
+    display: inline;
+	margin-top: 9px;	
+	padding-left: 21px;
+}
+
+#contact li a { 
+    opacity:1;  
+    text-decoration: none; 
+}
+
+#contact li a.active {  
+    opacity:1;  
+}
+
+#contact li a:hover { 
+    opacity: 0.6;
+}
