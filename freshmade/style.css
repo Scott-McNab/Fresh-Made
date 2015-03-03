@@ -121,6 +121,10 @@ nav{
     font-weight: 200;
 }
 
+#web img{
+    width: 50%;
+}
+
 #freshmade{
     float: right;
     width: 67%;
