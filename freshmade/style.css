@@ -99,10 +99,8 @@ nav{
 #about{
     float: right;
     width: 67%;
-    height: 100vh;
-    margin-top: 200px;
-    padding-left: 20px;
-    padding-right: 30px;
+    height: 600px;
+	padding: 170px 0 0 0;
     font-size: 30px;
 }
 
@@ -115,10 +113,8 @@ nav{
 #work{
     float: right;
     width: 67%;
-    height: 100vh;
-    margin-top: 100px;
-    padding-left: 20px;
-    padding-right: 30px;
+    height: 100%;
+	padding: 170px 0 0 0;
     font-size: 30px;
 }
 
@@ -140,10 +136,8 @@ nav{
 #freshmade{
     float: right;
     width: 67%;
-    height: 100vh;
-    margin-top: 100px;
-    padding-left: 20px;
-    padding-right: 30px;
+    height: 100%;
+	padding: 170px 0 0 0;
     font-size: 30px;
 }
 
@@ -156,10 +150,9 @@ nav{
 #contact{
     float: right;
     width: 67%;
-    height: 100vh;
-    padding-top: 200px;
-    padding-left: 20px;
-    padding-right: 30px;
+    height: 400px;
+    margin-top: 200px;
+	padding: 170px 0 0 0;
 }
 
 #contact h1{
